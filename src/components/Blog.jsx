@@ -31,7 +31,7 @@ const blogs = [
   },
 ];
 
-const INITIAL_COUNT = 1;
+const INITIAL_COUNT = 2;
 const LOAD_COUNT = 1;
 
 const Blogs = ({ animateKey }) => {

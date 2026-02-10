@@ -62,14 +62,14 @@ link.click();
 
           {/* Buttons */}
           <div className="flex justify-center md:justify-start gap-4 pt-4">
-            <motion.button
+            {/* <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               onClick={() => scrollToSection("projects")} // ✅
               className="rounded-full bg-secondary px-8 py-3 text-primary font-semibold"
             >
               View Projects
-            </motion.button>
+            </motion.button> */}
 
             <motion.button
               whileHover={{ scale: 1.05 }}

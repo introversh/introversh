@@ -17,7 +17,7 @@ const projects = [
       "Full-stack chat application with real time communicatioon and image sharing.",
     tech: ["MongoDB", "Express", "React", "Node"],
     github: "https://github.com/introversh/Nyx.git",
-    live: "#",
+    live: "https://chatwithnyx.onrender.com/",
   },
 ];
 

@@ -1,16 +1,63 @@
-# React + Vite
+# 👋 Hey, I'm Shiviee
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Curious mind | Builder of ideas | Obsessed with understanding how things *really* work  
 
-Currently, two official plugins are available:
+I’m a tech enthusiast who loves exploring **computer science, AI, and deep problem-solving**.  
+I don’t just learn tools — I try to understand the *why* behind everything.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🧠 About Me
+- 🎓 B.Tech student (Graduating 2027)
+- 💻 Interested in **Machine Learning, Deep Learning & Computer Vision**
+- 🧩 Love breaking down complex problems into simple ideas
+- 📚 Currently exploring **data science, AI models, and system design**
+- ✍️ Also into writing & storytelling (especially deep, psychological stuff)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 What I’m Working On
+- 🔍 Real-time projects using **Python & ML**
+- 🤖 Computer Vision experiments
+- 📈 Strengthening foundations in **DSA & core CS**
+- 🛠️ Building projects that *actually mean something*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+**Languages**
+- Python 🐍
+- C / C++
+- Java (basics)
+
+**Libraries & Tools**
+- NumPy, Pandas
+- OpenCV
+- TensorFlow / Keras
+- Scikit-learn
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Model optimization & deployment
+- How to think like a great engineer, not just a coder
+
+---
+
+## 💡 Philosophy
+> “If I don’t understand it deeply, I don’t consider it learned.”
+
+I believe real skill comes from **clarity, curiosity, and consistency**.
+
+---
+
+## 📫 Let’s Connect
+- GitHub: You’re already here 😉  
+- Always open to discussions about tech, ideas, and ambitious projects
+
+---
+
+⭐ If you find something interesting here, feel free to star or fork —  
+I’m just getting started.

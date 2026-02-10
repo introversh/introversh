@@ -1,7 +1,6 @@
-import React, { useEffect, useRef } from "react";
+import React, { createElement, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import Typed from "typed.js";
-import profileImg from "../../public/introversh.jpg";
 
 const Hero = () => {
   const typedRef = useRef(null);
@@ -30,7 +29,12 @@ const Hero = () => {
       behavior: "smooth",
     });
   };
-
+const handleDownload=()=>{
+const link = document.createElement("a");
+link.href = "/resume.pdf";
+link.download = "Resume.pdf"
+link.click();
+}
   return (
     <section className="min-h-screen bg-primary flex items-center justify-center">
       <div className="mx-auto max-w-7xl px-6 w-full grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
@@ -75,6 +79,14 @@ const Hero = () => {
             >
               Contact
             </motion.button>
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="rounded-full border border-secondary px-8 py-3 text-secondary font-semibold"
+              onClick={()=>handleDownload()}
+            >
+              Resume
+            </motion.button>
           </div>
         </motion.div>
 
@@ -86,7 +98,7 @@ const Hero = () => {
           className="flex justify-center"
         >
           <img
-            src={profileImg}
+            src="/introversh.jpg"
             alt="Shivankar Tripathi"
             className="h-72 w-72 md:h-96 md:w-96 object-cover rounded-2xl border border-secondary"
           />

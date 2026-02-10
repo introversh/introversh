@@ -9,7 +9,7 @@ const projects = [
       "A space-themed personal portfolio focused on clean UI, motion, and performance.",
     tech: ["React", "Tailwind", "Framer Motion"],
     github: "https://github.com/introversh/introversh.git",
-    live: "introversh.netlify.app",
+    live: "https://introversh.netlify.app",
   },
   {
     title: "MERN Chat Application",

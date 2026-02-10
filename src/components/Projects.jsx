@@ -8,15 +8,15 @@ const projects = [
     description:
       "A space-themed personal portfolio focused on clean UI, motion, and performance.",
     tech: ["React", "Tailwind", "Framer Motion"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/introversh/introversh.git",
+    live: "introversh.netlify.app",
   },
   {
-    title: "MERN Blog Platform",
+    title: "MERN Chat Application",
     description:
-      "Full-stack blogging platform with authentication, markdown editor, and admin control.",
+      "Full-stack chat application with real time communicatioon and image sharing.",
     tech: ["MongoDB", "Express", "React", "Node"],
-    github: "#",
+    github: "https://github.com/introversh/Nyx.git",
     live: "#",
   },
 ];

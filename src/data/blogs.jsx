@@ -373,6 +373,92 @@ const blogs = [
       </p>
     </>
   ),
+},
+{
+  slug: "my-third-year-internship-hunt",
+  title: "My Experience Trying to Get an Internship in Third Year",
+  excerpt:
+    "Third year felt like a countdown clock. Applications, rejections, doubt, and growth — this is what the internship hunt actually taught me.",
+  date: "Mar 1, 2026",
+  tags: ["Personal", "Career", "B.Tech"],
+  image: "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+  content: (
+    <>
+      <p>
+        Third year changed the air around me. Suddenly, every conversation
+        started with internships. Who got one. Who is preparing. Who is behind.
+      </p>
+
+      <p>
+        I told myself I wasn’t stressed. I had projects. I had skills.
+        I was building seriously. But the moment I started applying,
+        reality felt different.
+      </p>
+
+      <h2 className="pt-6 text-2xl font-medium text-secondary">
+        The Application Phase
+      </h2>
+
+      <p>
+        I sent applications with confidence at first. Carefully written
+        resumes. Tailored cover letters. Links to deployed projects.
+        And then… silence.
+      </p>
+
+      <p>
+        Rejection emails became oddly mechanical. “We regret to inform you.”
+        It wasn’t dramatic. Just repetitive. And repetition is what
+        makes doubt creep in.
+      </p>
+
+      <blockquote className="border-l-4 border-secondary pl-4 italic text-secondary/70">
+        “You can be capable and still be unseen. That doesn’t make you incapable.”
+      </blockquote>
+
+      <h2 className="pt-6 text-2xl font-medium text-secondary">
+        The Comparison Trap
+      </h2>
+
+      <p>
+        Friends started posting updates. Stipends. Offer letters.
+        Startup roles. It’s strange how happy you are for them —
+        and yet how quietly you question yourself at the same time.
+      </p>
+
+      <p>
+        I had to consciously remind myself: different timelines,
+        different paths. Social media compresses effort into
+        a single announcement.
+      </p>
+
+      <h2 className="pt-6 text-2xl font-medium text-secondary">
+        What Actually Changed Me
+      </h2>
+
+      <p>
+        The real growth wasn’t in getting selected. It was in the
+        process of preparing. I refined my fundamentals. Cleaned up
+        my GitHub. Deployed properly. Understood system design better.
+      </p>
+
+      <p>
+        I stopped building just to “have projects” and started
+        building to understand architecture, trade-offs, and
+        scalability. That shift mattered more than any rejection.
+      </p>
+
+      <p>
+        Third year didn’t just test my resume. It tested my patience,
+        ego, and consistency. And strangely, I’m grateful for it.
+      </p>
+
+      <p>
+        Whether I land the internship this month or later,
+        I know this much — I’m not the same developer who
+        started applying.
+      </p>
+    </>
+  ),
 }
 
 ,

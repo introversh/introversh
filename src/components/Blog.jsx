@@ -6,6 +6,14 @@ import { Link } from "react-router-dom";
 // 👉 Later you can move this to /data/blogs.js
 const blogs = [
   {
+  slug: "my-third-year-internship-hunt",
+  title: "My Experience Trying to Get an Internship in Third Year",
+  excerpt:
+    "Third year internship season felt like pressure, comparison, and quiet self-doubt. Here’s what the rejections, preparation, and persistence really taught me.",
+  date: "Mar 1, 2026",
+  tags: ["Personal", "Career", "B.Tech"],
+},
+  {
     slug: "how-to-not-be-an-average-student",
     title: "How I’m Trying Not to Be an Average Student",
     excerpt:
@@ -29,6 +37,7 @@ const blogs = [
     date: "Feb 4, 2026",
     tags: ["Personal", "Blogging", "Journey"],
   },
+  
 ];
 
 const INITIAL_COUNT = 2;

@@ -20,10 +20,10 @@ const Contact = ({ animateKey }) => {
 
     emailjs
       .sendForm(
-        "service_3v9tb9y",
-        "template_bkfgiqb",
+        "service_9c6bst4",
+        "template_cdiivpb",
         form,
-        "mNVmDgjN8LijRAkxL"
+        "nMJ5kL7zfFf5wGOjU"
       )
       .then(
         () => {

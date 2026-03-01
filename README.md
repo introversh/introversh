@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shiviee
+# 👋 Hey, I'm Shivankar
 
 ✨ Curious mind | Builder of ideas | Obsessed with understanding how things *really* work  
 

@@ -1,162 +1,151 @@
-# ⚡ Shivankar
+<h1 align="center">Shivankar</h1>
 
-```bash
-> curious_engineer.exe running...
-> status: building things that probably shouldn't work (but do)
-```
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Systems+Builder;Machine+Learning+Explorer;Future+AGI+Architect" />
+</p>
 
-🧠 **Problem Solver | Systems Thinker | Builder**
-
-I like understanding **how systems work underneath the surface**.
-Not just using tools — **breaking them apart mentally and rebuilding them better.**
-
----
-
-# 🚀 Current Focus
-
-* 🏗 **Full-stack systems engineering**
-* 🤖 **Machine Learning / NLP**
-* ⚡ **High-performance backend architectures**
-* 🧠 Deep problem solving in **algorithms & system design**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=introversh&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/introversh?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/introversh?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🧪 Current Project
+# About Me
 
-## AnimeStocks — Production-Grade Anime Trading Platform
+* 🎓 **B.Tech Student — Graduating 2027**
+* 🧠 Interested in **AI, systems engineering, and deep problem solving**
+* 🛠 Building **production-grade full-stack systems**
+* ✍️ Enjoy writing **psychological and philosophical ideas**
 
-A **full-stack trading platform** where users can buy/sell anime character stocks using in-app credits backed by **real UPI payments**.
+### Fun Fact
 
-### Core Architecture
-
-```
-Client → API → Workers → Database → Cache → Queue → Payments
-```
-
-### Tech Stack
-
-**Frontend**
-
-* Next.js
-* React
-* TypeScript
-* TailwindCSS
-
-**Backend**
-
-* Fastify
-* Node.js
-* REST APIs
-* Authentication & RBAC
-
-**Data Layer**
-
-* PostgreSQL
-* Prisma ORM
-* Redis (caching)
-
-**Infrastructure**
-
-* Docker
-* NGINX
-* BullMQ (background jobs)
-
-**Payments**
-
-* Razorpay (UPI integration)
+I have a lifelong ambition to help create the **world's first AGI**.
 
 ---
 
-# 🧠 Core Skills
+# Portfolio Preview
+
+<p align="center">
+<a href="https://introversh.netlify.app">
+<img src="https://api.microlink.io/?url=https://introversh.netlify.app&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
+</a>
+</p>
+
+<p align="center">
+Live Portfolio → https://introversh.netlify.app
+</p>
+
+---
+
+# Tech Stack
 
 ### Languages
 
-* JavaScript / TypeScript
-* Python
-* C / C++
-* Java (basic)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java"/>
+</p>
 
-### Backend Development
+### Frontend
 
-* Node.js
-* Fastify
-* REST API Design
-* Authentication Systems
-* RBAC
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify"/>
+<img src="https://img.shields.io/badge/REST%20API-Architecture-blue?style=for-the-badge"/>
+</p>
 
 ### Databases
 
-* PostgreSQL
-* Redis
-* Prisma ORM
-* SQL Design
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+</p>
 
-### Infrastructure & DevOps
+### DevOps & Infrastructure
 
-* Docker
-* NGINX
-* CI/CD concepts
-* Background job queues
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git"/>
+<img src="https://img.shields.io/badge/BullMQ-Background%20Jobs-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge"/>
+</p>
 
-### AI / ML
+### AI / Machine Learning
 
-* NumPy
-* Pandas
-* Scikit-learn
-* TensorFlow / Keras
-* OpenCV
-
-### Computer Science
-
-* Data Structures & Algorithms
-* System Design
-* Software Architecture
+<p>
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge"/>
+</p>
 
 ---
 
-# 📚 Currently Learning
+# Core Engineering Skills
 
-* Distributed system design
-* High-scale backend architecture
-* Advanced NLP systems
-* Model deployment pipelines
-
----
-
-# 🧩 Philosophy
-
-> “Understanding the system beats memorizing the tool.”
-
-I care about **depth over hype**.
-
-Anyone can import a library.
-Few people understand **why the system behaves the way it does.**
+* REST API Design
+* Authentication Systems
+* RBAC Authorization
+* Background Job Processing
+* Payment Integration (**Razorpay / UPI**)
+* Redis Caching Strategies
+* Database Schema Design
+* System Architecture
+* Full-Stack Application Development
 
 ---
 
-# 🛠️ Tools I Use
+# Current Project
+
+## AnimeStocks
+
+A **production-style anime trading platform** where users can buy and sell anime character stocks using in-app credits backed by real payments.
 
 ```
-VS Code
-Git
-Linux
-Docker
-Postman
+Next.js → Fastify → PostgreSQL → Redis → BullMQ → Razorpay → Docker → NGINX
 ```
 
 ---
 
-# 📈 Long Term Vision
+# GitHub Analytics
 
-* Build **serious production systems**
-* Contribute to **AI research**
-* Explore deep **theoretical computer science**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=introversh&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=introversh&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=introversh&theme=tokyo-night"/>
+</p>
 
 ---
 
-# 🤝 Connect
+# Achievements
 
-If you're interested in **systems, AI, or ambitious projects**,
-feel free to explore the repositories.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=introversh&theme=tokyonight"/>
+</p>
 
-⭐ Star anything you find useful.
+---
+
+# Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# Philosophy
+
+> If I don't understand something deeply, I don't consider it learned.

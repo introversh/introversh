@@ -1,63 +1,162 @@
-# 👋 Hey, I'm Shivankar
+# ⚡ Shivankar
 
-✨ Curious mind | Builder of ideas | Obsessed with understanding how things *really* work  
+```bash
+> curious_engineer.exe running...
+> status: building things that probably shouldn't work (but do)
+```
 
-I’m a tech enthusiast who loves exploring **computer science, AI, and deep problem-solving**.  
-I don’t just learn tools — I try to understand the *why* behind everything.
+🧠 **Problem Solver | Systems Thinker | Builder**
 
----
-
-## 🧠 About Me
-- 🎓 B.Tech student (Graduating 2027)
-- 💻 Interested in **Machine Learning, Deep Learning & Computer Vision**
-- 🧩 Love breaking down complex problems into simple ideas
-- 📚 Currently exploring **data science, AI models, and system design**
-- ✍️ Also into writing & storytelling (especially deep, psychological stuff)
+I like understanding **how systems work underneath the surface**.
+Not just using tools — **breaking them apart mentally and rebuilding them better.**
 
 ---
 
-## 🚀 What I’m Working On
-- 🔍 Real-time projects using **Python & ML**
-- 🤖 Computer Vision experiments
-- 📈 Strengthening foundations in **DSA & core CS**
-- 🛠️ Building projects that *actually mean something*
+# 🚀 Current Focus
+
+* 🏗 **Full-stack systems engineering**
+* 🤖 **Machine Learning / NLP**
+* ⚡ **High-performance backend architectures**
+* 🧠 Deep problem solving in **algorithms & system design**
 
 ---
 
-## 🛠️ Tech Stack
-**Languages**
-- Python 🐍
-- C / C++
-- Java (basics)
+# 🧪 Current Project
 
-**Libraries & Tools**
-- NumPy, Pandas
-- OpenCV
-- TensorFlow / Keras
-- Scikit-learn
-- Git & GitHub
+## AnimeStocks — Production-Grade Anime Trading Platform
+
+A **full-stack trading platform** where users can buy/sell anime character stocks using in-app credits backed by **real UPI payments**.
+
+### Core Architecture
+
+```
+Client → API → Workers → Database → Cache → Queue → Payments
+```
+
+### Tech Stack
+
+**Frontend**
+
+* Next.js
+* React
+* TypeScript
+* TailwindCSS
+
+**Backend**
+
+* Fastify
+* Node.js
+* REST APIs
+* Authentication & RBAC
+
+**Data Layer**
+
+* PostgreSQL
+* Prisma ORM
+* Redis (caching)
+
+**Infrastructure**
+
+* Docker
+* NGINX
+* BullMQ (background jobs)
+
+**Payments**
+
+* Razorpay (UPI integration)
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Machine Learning
-- Model optimization & deployment
-- How to think like a great engineer, not just a coder
+# 🧠 Core Skills
+
+### Languages
+
+* JavaScript / TypeScript
+* Python
+* C / C++
+* Java (basic)
+
+### Backend Development
+
+* Node.js
+* Fastify
+* REST API Design
+* Authentication Systems
+* RBAC
+
+### Databases
+
+* PostgreSQL
+* Redis
+* Prisma ORM
+* SQL Design
+
+### Infrastructure & DevOps
+
+* Docker
+* NGINX
+* CI/CD concepts
+* Background job queues
+
+### AI / ML
+
+* NumPy
+* Pandas
+* Scikit-learn
+* TensorFlow / Keras
+* OpenCV
+
+### Computer Science
+
+* Data Structures & Algorithms
+* System Design
+* Software Architecture
 
 ---
 
-## 💡 Philosophy
-> “If I don’t understand it deeply, I don’t consider it learned.”
+# 📚 Currently Learning
 
-I believe real skill comes from **clarity, curiosity, and consistency**.
-
----
-
-## 📫 Let’s Connect
-- GitHub: You’re already here 😉  
-- Always open to discussions about tech, ideas, and ambitious projects
+* Distributed system design
+* High-scale backend architecture
+* Advanced NLP systems
+* Model deployment pipelines
 
 ---
 
-⭐ If you find something interesting here, feel free to star or fork —  
-I’m just getting started.
+# 🧩 Philosophy
+
+> “Understanding the system beats memorizing the tool.”
+
+I care about **depth over hype**.
+
+Anyone can import a library.
+Few people understand **why the system behaves the way it does.**
+
+---
+
+# 🛠️ Tools I Use
+
+```
+VS Code
+Git
+Linux
+Docker
+Postman
+```
+
+---
+
+# 📈 Long Term Vision
+
+* Build **serious production systems**
+* Contribute to **AI research**
+* Explore deep **theoretical computer science**
+
+---
+
+# 🤝 Connect
+
+If you're interested in **systems, AI, or ambitious projects**,
+feel free to explore the repositories.
+
+⭐ Star anything you find useful.

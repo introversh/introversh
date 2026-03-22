@@ -53,7 +53,7 @@ const Skills = ({ animateKey }) => {
     <section
       id="skills"
       key={animateKey}
-      className="bg-primary px-6 pt-32"
+      className="bg-primary px-6 pt-32 pb-28"
     >
       {/* Heading */}
       <div className="mb-14 text-center">

@@ -81,7 +81,7 @@ const Contact = ({ animateKey }) => {
           <form className="flex flex-col gap-4" onSubmit={handleSubmit}>
             <input
               type="text"
-              name="user_name"
+              name="name"
               placeholder="Your name"
               className="rounded-xl border border-secondary bg-transparent px-4 py-3 text-secondary outline-none placeholder:text-secondary/50"
               required
@@ -89,7 +89,7 @@ const Contact = ({ animateKey }) => {
 
             <input
               type="email"
-              name="user_email"
+              name="email"
               placeholder="Your email"
               className="rounded-xl border border-secondary bg-transparent px-4 py-3 text-secondary outline-none placeholder:text-secondary/50"
               required

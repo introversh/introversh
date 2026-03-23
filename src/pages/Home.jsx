@@ -14,9 +14,7 @@ const Home = () => (
     <section id="skills" className="scroll-mt-24">
       <Skills />
     </section>
-    <section id="notice" className="scroll-mt-24">
-      <NoticeBoard />
-    </section>
+    
 
     <section id="projects" className="scroll-mt-24">
       <Projects />
@@ -28,6 +26,9 @@ const Home = () => (
 
     <section id="contact" className="scroll-mt-24">
       <Contact />
+    </section>
+    <section  className="scroll-mt-24">
+      <NoticeBoard />
     </section>
   </main>
 );

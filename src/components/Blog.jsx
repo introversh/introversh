@@ -41,7 +41,7 @@ const blogs = [
 ];
 
 const INITIAL_COUNT = 2;
-const LOAD_COUNT = 1;
+const LOAD_COUNT = 2;
 
 const Blogs = ({ animateKey }) => {
   const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT);

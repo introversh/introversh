@@ -79,7 +79,7 @@ const NoticeBoard = () => {
             >
               {/* CHALK FONT APPLIED */}
               <p className="text-2xl text-secondary font-chalk drop-shadow-md">
-                I build systems that scale, fail gracefully, and recover intelligently.
+                This is just the begining of a great adventure. Stick with me to find out more ;)
               </p>
               
               {/* Pin */}
